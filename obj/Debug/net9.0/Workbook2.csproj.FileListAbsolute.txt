@@ -1,0 +1,14 @@
+C:\Users\elise\Documents\praca2\Workbook2\bin\Debug\net9.0\Workbook2.exe
+C:\Users\elise\Documents\praca2\Workbook2\bin\Debug\net9.0\Workbook2.deps.json
+C:\Users\elise\Documents\praca2\Workbook2\bin\Debug\net9.0\Workbook2.runtimeconfig.json
+C:\Users\elise\Documents\praca2\Workbook2\bin\Debug\net9.0\Workbook2.dll
+C:\Users\elise\Documents\praca2\Workbook2\bin\Debug\net9.0\Workbook2.pdb
+C:\Users\elise\Documents\praca2\Workbook2\obj\Debug\net9.0\Workbook2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elise\Documents\praca2\Workbook2\obj\Debug\net9.0\Workbook2.AssemblyInfoInputs.cache
+C:\Users\elise\Documents\praca2\Workbook2\obj\Debug\net9.0\Workbook2.AssemblyInfo.cs
+C:\Users\elise\Documents\praca2\Workbook2\obj\Debug\net9.0\Workbook2.csproj.CoreCompileInputs.cache
+C:\Users\elise\Documents\praca2\Workbook2\obj\Debug\net9.0\Workbook2.dll
+C:\Users\elise\Documents\praca2\Workbook2\obj\Debug\net9.0\refint\Workbook2.dll
+C:\Users\elise\Documents\praca2\Workbook2\obj\Debug\net9.0\Workbook2.pdb
+C:\Users\elise\Documents\praca2\Workbook2\obj\Debug\net9.0\Workbook2.genruntimeconfig.cache
+C:\Users\elise\Documents\praca2\Workbook2\obj\Debug\net9.0\ref\Workbook2.dll
